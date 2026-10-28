@@ -3,10 +3,12 @@
 English fan translation patch for **Digital Monster Ver. S: Digimon Tamers**
 (デジタルモンスター Ver.S, Sega Saturn, Bandai 1998).
 
+Translation and hacking by **GorillaKenobi**.
+
 **[⬇ Download the latest release](../../releases/latest)** — current version: **v0.9.3** (beta)
 
 <p align="center">
-  <img src="screenshots/title.png" width="320">
+  <img src="screenshots/title.png" width="480" alt="Title screen">
 </p>
 
 > [!IMPORTANT]
@@ -41,6 +43,23 @@ look: the card backs, the CD art, and the Mail/Shop backdrop wallpapers.
   Perfect, not Rookie, Champion and Ultimate.
 - **Work in progress.** More graphical tweaks to the UI design are planned for
   future versions.
+
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/desktop.png" width="400" alt="Desktop">
+  <img src="screenshots/food.png" width="400" alt="Feeding">
+</p>
+
+<p align="center">
+  <img src="screenshots/jump.png" width="400" alt="Training">
+  <img src="screenshots/shop.png" width="400" alt="Cyber Monster Shop">
+</p>
+
+<p align="center">
+  <img src="screenshots/world.png" width="400" alt="Digimon World page">
+  <img src="screenshots/minigame.png" width="400" alt="Botamon Napping minigame">
+</p>
 
 ## What you need
 
